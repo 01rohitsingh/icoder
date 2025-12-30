@@ -18,14 +18,14 @@ It includes a navigation bar, image carousel, blog cards, modal-based login/sign
  ├──Blog cards with category tags and images
  ├──Fully responsive layout using Bootstrap Grid
  ├──Footer with social media icons
- ├──Clean and modern UI
+ └──Clean and modern UI
 
 ## 🛠️ Technologies Used
 ```text
  ├──HTML5
  ├──CSS3
  ├──Bootstrap 5
- ├──JavaScript (Bootstrap bundle)
+ └──JavaScript (Bootstrap bundle)
 
 ## 📂 Project Structure
 ```text
@@ -48,7 +48,7 @@ It includes a navigation bar, image carousel, blog cards, modal-based login/sign
 ```text
  ├──Download or clone the repository.
  ├──Open index.html in any modern web browser.
- ├──No server or backend setup is required.
+ └──No server or backend setup is required.
 
 
 
@@ -58,4 +58,4 @@ It includes a navigation bar, image carousel, blog cards, modal-based login/sign
  ├──Connect blog cards to dynamic content or database
  ├──Add user authentication and profile management
  ├──Implement search functionality
- ├──Add dark mode
+ └──Add dark mode
