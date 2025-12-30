@@ -11,7 +11,7 @@ The website provides information about trending topics in technology such as Web
 It includes a navigation bar, image carousel, blog cards, modal-based login/signup forms, and a clean footer.
 
 ## 🚀 Features
-
+```text
  ├──Responsive Navbar with dropdown menu
  ├──Login and Sign-up modal forms
  ├──Image carousel with smooth transitions
@@ -21,13 +21,14 @@ It includes a navigation bar, image carousel, blog cards, modal-based login/sign
  ├──Clean and modern UI
 
 ## 🛠️ Technologies Used
-
+```text
  ├──HTML5
  ├──CSS3
  ├──Bootstrap 5
  ├──JavaScript (Bootstrap bundle)
 
 ## 📂 Project Structure
+```text
  /iCoder
  │
  ├── index.html
@@ -44,7 +45,7 @@ It includes a navigation bar, image carousel, blog cards, modal-based login/sign
  └── README.md
 
 ## 💻 How to Run the Project
-
+```text
  ├──Download or clone the repository.
  ├──Open index.html in any modern web browser.
  ├──No server or backend setup is required.
